@@ -1,0 +1,11 @@
+﻿macrotema_codigo,macrotema,n_tweets,n_usuarios_unicos,porcentaje_tweets
+REL,"Relaciones personales, afectivas y vida social",15,2,34.88
+NOINT,Contenido no interpretable,8,2,18.6
+VIDA,"Rutinas, experiencias cotidianas y estados personales",8,2,18.6
+OCIO,"Cultura, ocio y entretenimiento",4,2,9.3
+SALUD_COT,"Salud, cuerpo y bienestar cotidiano",2,1,4.65
+OTROS,Otros temas o contenido ambiguo,2,1,4.65
+EDU,Educación y formación,1,1,2.33
+ECO,"Economía, empleo y vivienda",1,1,2.33
+POL,"Política, instituciones y actualidad pública",1,1,2.33
+TERR,"Territorio, identidad local y comunidad",1,1,2.33
